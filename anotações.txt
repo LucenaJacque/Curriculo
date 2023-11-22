@@ -1,0 +1,29 @@
+
+target "_blank" = comando para entender que o link que for colocado da href e pra abrir em  outra guia
+Modificadores de acesso
+
+- Public
+- Private
+- Readonly ( somente leitura )
+- Protect
+
+
+
+constructor(rua: string, bairro: string, cidade: string, estado: string) {
+    this.rua = rua;
+    this.bairro = bairro;
+    this.cidade = cidade;
+    this.estado = estado;
+  }
+
+como marcar como comentario
+
+** no TS para marcar uma linha como comentario, clique na linha ctrl + k +c
+
+
+** privado começa com _
+
+SET = COLOCA O NOME
+GET = TRAS O NOME	
+
+extendes =
